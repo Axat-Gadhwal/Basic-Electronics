@@ -133,6 +133,21 @@ Adapters for SMD components exist, but they often require soldering, reducing th
 
 ---
 
+![image](https://github.com/user-attachments/assets/15383043-ee88-43c2-b8a4-de2a8c407127)
+
+![image](https://github.com/user-attachments/assets/3e2c7a5b-dd2f-49de-ab6e-46c7217be97d)
+
+![image](https://github.com/user-attachments/assets/1e2583dc-2785-41e1-9c9d-33e03bf11b73)
+
+
+![image](https://github.com/user-attachments/assets/95ba1cf9-aa0f-4fdb-9190-3135ffc036bd)
+
+
+![image](https://github.com/user-attachments/assets/98cd78be-421b-466f-8af9-bb2330109736)
+
+
+![image](https://github.com/user-attachments/assets/6232ef67-6b7b-4c89-be4d-5b740b2ce881)
+
 ## 🔄 Alternatives
 
 - **Perfboards / Stripboards**: require soldering, more permanent
