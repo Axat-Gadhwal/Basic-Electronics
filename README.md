@@ -170,4 +170,5 @@ Adapters for SMD components exist, but they often require soldering, reducing th
 
 # Analogy
 
-![image](https://github.com/user-attachments/assets/b215d658-aedb-43ee-b2ef-0c4d3fb27265)
+![image](https://github.com/user-attachments/assets/b215d658-aedb-43ee-b2ef-0c4d3fb27265)![image](https://github.com/user-attachments/assets/3e7208ac-1ee9-4bd4-bfa3-9c86b79f134d)
+
